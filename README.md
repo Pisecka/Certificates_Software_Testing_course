@@ -1,3 +1,3 @@
 # Certificates_Software_Testing_course
 
-### My name is Karina
+#### This folder contains the ceritifcates, which I have received during my studies in Software Testing courses.
